@@ -1,0 +1,20 @@
+{
+  "name": "nsca",
+  "version": "0.0.1",
+  "description": "NSCA packet submission for node.js",
+  "author": "Josh Toft <joshtoft@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seryl/node-nsca.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "1.11.0",
+    "chai": "1.7.0"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "main": "./lib/nsca.js"
+}
