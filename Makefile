@@ -1,8 +1,6 @@
 MOCHA_OPTS=
 REPORTER = dot
 
-check: test
-
 test: test-unit
 
 test-unit:
